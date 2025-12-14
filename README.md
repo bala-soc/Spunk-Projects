@@ -9,7 +9,7 @@ These projects are designed to demonstrate **practical SOC Analyst (L1) skills**
 
 ## 📁 Projects Included
 
-### 1. Analyzing DNS Logs Using Splunk SIEM
+### 1. [Analyzing DNS Logs Using Splunk SIEM](https://github.com/bala-soc/Spunk-Projects/blob/main/Analyzing%20DNS%20Logs%20Using%20Splunk%20SIEM.md)
 This project provides a step-by-step guide for analyzing **DNS (Domain Name System)** log files using Splunk SIEM.
 
 **Key Focus Areas:**
@@ -109,6 +109,3 @@ The objective of this repository is to:
 
 ---
 
-## 👨‍💻 Author
-**Balachandran R**  
-SOC Analyst (L1) | Cybersecurity Enthusiast  
