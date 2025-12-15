@@ -82,7 +82,7 @@ This project provides a structured approach for analyzing **SMTP (Simple Mail Tr
 
 ---
 
-### 7. Analyzing DHCP Logs Using Splunk SIEM
+### 7. [Analyzing DHCP Logs Using Splunk SIEM](https://github.com/bala-soc/Splunk-Projects/blob/main/7.%20Analyzing%20DHCP%20Logs%20Using%20Splunk%20SIEM.md)
 This project offers guidance on analyzing **DHCP (Dynamic Host Configuration Protocol)** log files using Splunk SIEM.
 
 **Key Focus Areas:**
